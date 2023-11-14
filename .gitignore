@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RGG_Csharp_dolgozat_01/.vs
+/RGG_Csharp_dolgozat_01/RGG_Csharp_dolgozat_01/bin/Debug/net6.0
+/RGG_Csharp_dolgozat_01/RGG_Csharp_dolgozat_01/obj
+/RGG_Csharp_dolgozat_01_folytatas/.vs
+/RGG_Csharp_dolgozat_01_folytatas/RGG_Csharp_dolgozat_01_folytatas/bin/Debug/net6.0
+/RGG_Csharp_dolgozat_01_folytatas/RGG_Csharp_dolgozat_01_folytatas/obj
